@@ -1,0 +1,1100 @@
+{
+    id: "190_0",
+    name: "Women in Science Collections at the APS",
+    children: [
+
+    {
+        id: "Seibert",
+        name: "Florence Barbara Seibert",
+        data: {
+                relation: "<h2>Florence Barbara Seibert (1897-1991)</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+        },
+
+
+            children: [{
+            id: "Affronti",
+            name: "Lewis Affronti",
+            data: {
+                relation: "<h2>Lewis Affronti</h2><br /><div class='bio-text'>The maize geneticist Barbara McClintock (1902-1992) is credited with the discovery of jumping genes, that is chromosomal crossing over and translocation. She received the Nobel Prize in Physiology or Medicine in 1983.</div>"
+            },
+            children: []
+        },{
+            id: "Feldmann",
+            name: "Floyd M. Feldmann",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+  },{
+            id: "Freund",
+            name: "Jules Freund",
+            data: {
+                relation: "<h2>Jules Freund</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Gonzales",
+            name: "Luis M. Gonzales",
+            data: {
+                relation: ""
+            },
+            children: []
+  },{
+            id: "Diller",
+            name: "Irene Diller",
+            data: {
+                relation: "<h2>J. Burns Amberson, Jr</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Long",
+            name: "Esmond R. Long",
+            data: {
+                relation: "<h2>Robert S. Cunningham</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Mendel",
+            name: "Lafayette B. Mendel",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Palmer",
+            name: "Carroll E. Palmer",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },
+
+        {
+            id: "Choucroun",
+            name: "Nina Choucroun",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Miller-E",
+            name: "Elizabeth Miller",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Patino",
+            name: "Teresina Patino",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },
+
+        {
+            id: "Willett",
+            name: "Hilda Pope Willett",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Bevilacqua",
+            name: "Ellen Burtner Bevilacqua",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Breitwisser",
+            name: "Ruth Breitwisser",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Campbell",
+            name: "Charlotte C. Campbell",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Edwards-P",
+            name: "Phyllis Q. Edwards",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: [{
+                id: "Affronti",
+                name: "Lew Affronti",
+                data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+                },
+                children: []
+             }]
+        },{
+            id: "Emmart",
+            name: "Emily Emmart",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Hotchkiss",
+            name: "Margaret Hotchkiss",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: [{
+                id: "Fabrizio",
+                name: "Angelina Fabrizio",
+                data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+                },
+                children: []
+             }]
+        },{
+            id: "Fabrizio",
+            name: "Angelina Fabrizio",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+        },{
+            id: "Lincoln",
+            name: "Edith Lincoln",
+            data: {
+                relation: "<h2></h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+
+        }],
+    },
+
+
+        {
+        id: "Sabin",
+        name: "Florence Rena Sabin",
+        data: {
+            relation: "<h2>Florence Rena Sabin, 1871-1953</h2><br /><div class='bio-text'><p>Born in the mining town of Central City, Colorado, as the daughter of an engineer, Florence Rena Sabin was raised in New England and carved out a career of firsts in developmental biology and anatomy.</p><p>Receiving a bachelor's degree from Smith College in 1893, Sabin entered the three year old medical school at Johns Hopkins University in 1896, becoming the first woman graduate from the school with the class of 1900. At Hopkins, Sabin became the protégé of Franklin P. Mall, who encouraged her research interests in anatomy. By any reckoning, her talent for medical investigation was enormous, earning her an internship at Hopkins Hospital, followed by a special fellowship in the Department of Anatomy from the Baltimore Association for the Advancement of University Education of Women. By 1917, Sabin was made a member of the faculty in the Department of Histology, the first woman at the University to be promoted to the status of full professor.</p><p>Her early research centered on the embryological origins of the lymphatic system, and she later worked on the origins of blood, blood cells, and blood vessels, on the histology of the brain, and on the pathology and immunology of tuberculosis.</p><p>In September, 1925, Sabin accepted the invitation to head the Department of Cellular Studies at the Rockefeller Institute, becoming the first woman faculty member there, and continuing her work on tuberculosis. She retired to Colorado in 1938, but emerged six years later at the request of the governor to chair a subcommittee on public health and help reform and modernize the state's public health system. She retired a second time in 1951 and died October 3, 1953.</p><p>Honors accrued to Sabin throughout her career, including a number of firsts. In addition to being the first female graduate of Hopkins medical school, the first full professor there, and the first at Rockefeller, she was the first president of the American Association of Anatomists (1924) and the first woman member of the National Academy of Sciences (1925). She was selected as one of two representatives for the state of Colorado in the National Statuary Hall in the U.S. Capitol.</p></div><h3>Selected Manuscripts of Florence Sabin:</h3> <div class='bio-text'>The Papers of Florence Rena Sabin, a pioneer in women's role in medical research, consist of 19.5 linear feet of correspondence, notes, and publications pertaining to her research in anatomy and embryology. The collection is rich in detail on her work on tuberculosis, cancer, the origins of the lymphatic system, and pernicious anemia, as well as her involvement with a number of professional organizations. Below we have presented a slection of her manuscripts. <br /><br /><a href='https://diglib.amphilsoc.org/islandora/search/%22Sabin%2C%20Florence%22?type=dismax' target='new'>View all digitized material</a><br /><br /><a href='https://diglib.amphilsoc.org/islandora/object/text:211806' target='new'><img src='https://diglib.amphilsoc.org/islandora/object/text%3A211818/datastream/TN/view'></a><figcaption>American Women's Association </figcaption></figure><br /><hr><br /><figure><a href='https://diglib.amphilsoc.org/islandora/object/text:105092' target='new'><img src='https://diglib.amphilsoc.org/islandora/object/text:105092/datastream/TN/view'></a><figcaption>Franz Boas to Florence Sabin</figcaption></figure><br /><hr><br /><figure><a href='https://diglib.amphilsoc.org/islandora/object/text:105094' target='new'><img src='https://diglib.amphilsoc.org/islandora/object/text:105094/datastream/TN/view'></a><figcaption>Sabin to Franz Boas</figcaption></figure><br /><hr><br /><figure><a href='https://diglib.amphilsoc.org/islandora/object/text:211184' target='new'><img src='https://diglib.amphilsoc.org/islandora/object/text:211209/datastream/TN/view'></a><figcaption>Good Housekeeping Award, 1931</figcaption></figure><br /><hr><br /><figure><a href='https://diglib.amphilsoc.org/islandora/object/text:211660' target='new'><img src='https://diglib.amphilsoc.org/islandora/object/text:211780/datastream/TN/view'></a><figcaption>Naples Table Association</figcaption></figure></div></div></div>"
+        },
+
+        children: [{
+        },{
+            id: "Osler",
+            name: "William Osler",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Fuld",
+            name: "Carrie B. Fuld",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Mall",
+            name: "Franklin P. Mall",
+            data: {
+                relation: "<h2></h2>"
+            },
+
+            children: []
+        },{
+            id: "Abbott",
+            name: "Maude E. Abbott",
+            data: {
+                relation: "<h2>Mildred Cohn (1913-2009)</h2><div class='bio-text'>Cohn was a biochemist who advanced the study of metabolic processes, research that contributed to the development of medical technologies like the magnetic resonance imaging (MRI). She started her career in physics, reaching new frontiers in understanding chemical reactions at the atomic level. Using innovative technologies -- mass spectrometer, nuclear magnetic resonance, and electronic paramagnetic resonance -- to elucidate organic reactions. Her research included metabolic studies, mechanisms of enzymatic reactions, adenosine triphosphate (ATP) and electron spin.</div>"
+            },
+            children: []
+        },{
+            id: "Gildersleeve",
+            name: "Virginia C. Gildersleeve",
+            data: {
+                relation: "<h2>Virginia C. Gildersleeve (1897-1991)</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Hamilton",
+            name: "Alice Hamilton",
+            data: {
+                relation: ""
+            },
+            children: []
+  },{
+            id: "Amberson",
+            name: "J. Burns Amberson, Jr",
+            data: {
+                relation: "<h2>J. Burns Amberson, Jr</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+  },{
+            id: "Boissevain",
+            name: "C.H. Boissevain",
+            data: {
+                relation: "<h2>C.H. Boissevain</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Cohn-A",
+            name: "Alfred E. Cohn",
+            data: {
+                relation: ""
+            },
+            children: []
+  },{
+            id: "Corper",
+            name: "H. J. Corper",
+            data: {
+                relation: "<h2>J. Burns Amberson, Jr</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+  },{
+            id: "Corner",
+            name: "George Washington Corner",
+            data: {
+                relation: "<h2>George Washington Corner</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Cotton",
+            name: "W.E. Cotton",
+            data: {
+                relation: ""
+            },
+            children: []
+  },{
+            id: "Cowdry",
+            name: "E.V. Cowdry",
+            data: {
+                relation: "<h2>E.V. Cowdry</h2><br /><div class='bio-text'>Seibert was an American biochemist who invented the first reliable tuberculosis test and helped improve the safety of intravenous injections.</div>"
+            },
+            children: []
+        },{
+            id: "Boas",
+            name: "Franz Boas",
+            data: {
+                relation: ""
+            },
+            children: []
+        },{
+            id: "Seibert",
+            name: "Florence Barbara Seibert",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Anderson-J",
+            name: "J. Rudolph Anderson",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Cunningham",
+            name: "Robert S. Cunningham",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Doan",
+            name: "Charles Doan",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Downey",
+            name: "Hal Downey",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Drinker",
+            name: "Cecil K. Drinker",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Flexner-A",
+            name: "Abraham Flexner",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Flexner-S",
+            name: "Simon Flexner",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Hooker",
+            name: "Donald R. Hooker",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Miller-R",
+            name: "Franklin R. Miller",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },
+
+        {
+            id: "Frazee",
+            name: "Louise Frazee",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Smith-C",
+            name: "Christianna Smith",
+            data: {
+                relation: "<h2></h2>"
+            },
+
+            children: []
+        },{
+            id: "Putnam",
+            name: "Persis Putnam",
+            data: {
+                relation: "<h2></h2>"
+            },
+
+            children: [{
+                id: "Clark",
+                name: "Janet Howell Clark",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }],
+
+        },{
+            id: "Wiehl",
+            name: "Dorothy Wiehl",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Clark",
+                name: "Janet Howell Clark",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }],
+        },{
+            id: "Fuller",
+            name: "Dorothea Schallert Fuller",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Stewardt",
+            name: "Elizabeth Stewardt",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },
+
+        {
+            id: "Clark",
+            name: "Janet Howell Clark",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+
+        },{
+            id: "Gasser",
+            name: "Herbert S. Gasser",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Meanes",
+            name: "Lenna Meanes",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Simmonds",
+                name: "Nina Simmonds Estill",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            },{
+                id: "Clark",
+                name: "Janet Howell Clark",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            },{
+                id: "Hamilton",
+                name: "Alice Hamilton",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+
+            }],
+        },
+
+       {
+            id: "Das",
+            name: "Ethel Mya Das",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Abbott",
+                name: "Maude Abbott",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            },{
+                id: "Thomson",
+                name: "John Thomson",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: [{
+                    id: "Abbott",
+                    name: "Maude Abbott",
+                    data: {
+                        relation: "<h2></h2>"
+                    },
+                        children: []
+                 }]
+            }],
+
+        },{
+            id: "Wilkens",
+            name: "Elizabeth Reese Wilkens",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Dunham",
+            name: "Ethel C. Dunham",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Anderson-D",
+            name: "Dorothy H. Anderson",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Weber",
+            name: "Roxie Weber",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Baetjer",
+            name: "Anna Baetjer",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Stewardt",
+            name: "Elizabeth Stewardt",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Ross",
+            name: "Margaret Taylor Ross",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Bass",
+            name: "Elizabeth Bass",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Seibert",
+            name: "Florence Barbara Seibert",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Smithburn",
+            name: "Kenneth C. Smithburn",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Simmonds",
+            name: "Nina Simmonds Estill",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Baumann",
+            name: "Frieda Baumann",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Beals",
+            name: "Rose F. Beals",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Beck",
+            name: "Regina C. Beck",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Vadillo",
+            name: "Consuelo Vadillo",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Brainerd",
+                name: "Heloise Brainerd",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: [{
+                    id: "Sabin",
+                    name: "Florence Rena Sabin",
+                    data: {
+                        relation: "<h2></h2>"
+                        },
+                        children: []
+                    }],
+                }],
+
+        },{
+            id: "Dick",
+            name: "Gladys Dick",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Lansefield",
+            name: "Rebecca Lansefield",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Lynch",
+            name: "Clara Lynch",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Pearce",
+            name: "Louise Pearce",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Neal",
+            name: "Josephine Bicknell Neal",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Van Hoosen",
+            name: "Bertha Van Hoosen",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Mead-K",
+            name: "Kate Campbell Mead",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Macfarlane",
+            name: "Catherine Macfarlane",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Tracy",
+            name: "Martha Tracy",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Richards-E",
+            name: "Esther Richards",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "King",
+            name: "Jessie King",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Corner",
+                name: "George Corner",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }]
+        },{
+            id: "Denton",
+            name: "Mary Denton",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Pearce",
+                name: "Louise Pearce",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }]
+        },{
+            id: "Danchakoff",
+            name: "Vera Danchakoff",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Nutting",
+            name: "M.A. Nutting",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Long",
+            name: "Esmond Long",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Hines",
+            name: "Marion Hines",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Tower",
+                name: "Sarah Tower",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }]
+        },{
+            id: "Tower",
+            name: "Sarah Tower",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Blau",
+            name: "Marietta Blau",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Einstein",
+            name: "Albert Einstein",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Pockels",
+            name: "Agnes Pockels",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Noether",
+            name: "Emmy Noether",
+            data: {
+                relation: "<h2></h2>"
+            },
+                children: [{
+                id: "Einstein",
+                name: "Albert Einstein",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }],
+
+        },{
+            id: "Meitner",
+            name: "Lisa Meitner",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Ramart-Lucas",
+            name: "Pauline Ramart-Lucas",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Essenberg",
+            name: "Christine Essenberg",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Spooner",
+            name: "Hertha Spooner",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Flexner-A",
+                name: "Abraham Flexner",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                    children: []
+            }]
+        },{
+            id: "Breckenridge",
+            name: "Aida de Acosta Root Breckenridge",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Florence",
+            name: "Laura Florence",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "McNamara",
+            name: "Jean McNamara",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Archer",
+            name: "Nora Archer",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Frantz",
+            name: "Virginia K.",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Baylis",
+            name: "Adelaide Baylis",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Hirose",
+            name: "Ruby Hirose",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Lewis",
+            name: "Margaret Reed Lewis",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Man",
+            name: "Evelyn Man",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Menten",
+            name: "Maud L. Menten",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Woolley",
+            name: "Helen T.",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Wrinch",
+            name: "Dorothy Wrinch",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Westerdijk",
+            name: "Johanna Westerdijk",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Porter",
+            name: "Annie Porter",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Cannon",
+            name: "Anna Cannon",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "LeVoque",
+            name: "Norma LeVoque",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "McGill",
+            name: "Caroline McGill",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Reed",
+            name: "Minnie Reed",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Pinney",
+            name: "Mary E. Pinney",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Thompson",
+            name: "Caroline B. Thompson",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Erdmann-R",
+            name: "Rhoda Erdmann",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Peebles",
+            name: "Florence Peebles",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Muller",
+            name: "Gulli Lindh Muller",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "McCarter",
+            name: "Janet McCarter",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: [{
+                id: "Seibert",
+                name: "Florence Seibert",
+                data: {
+                    relation: "<h2></h2>"
+                },
+                children: []
+            }]
+        },{
+            id: "Sherwood",
+            name: "Mary Sherwood",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Anderson-D",
+            name: "Dorothy Anderson",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Ralli",
+            name: "Elaine Ralli",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Noble",
+            name: "Nelle S. Noble",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+            id: "Hines",
+            name: "Marion Hines",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+
+        }],
+     },
+
+        {
+        id: "M",
+        name: "Barbara McClintock",
+        data: {
+            relation: "<h2>Florence Rena Sabin, 1871-1953</h2><br /><div class='bio-text'><p>Born in the mining town of Central City, Colorado, as the daughter of an engineer, Florence Rena Sabin was raised in New England and carved out a career of firsts in developmental biology and anatomy.</p><p>Receiving a bachelor's degree from Smith College in 1893, Sabin entered the three year old medical school at Johns Hopkins University in 1896, becoming the first woman graduate from the school with the class of 1900. At Hopkins, Sabin became the protégé of Franklin P. Mall, who encouraged her research interests in anatomy. By any reckoning, her talent for medical investigation was enormous, earning her an internship at Hopkins Hospital, followed by a special fellowship in the Department of Anatomy from the Baltimore Association for the Advancement of University Education of Women. By 1917, Sabin was made a member of the faculty in the Department of Histology, the first woman at the University to be promoted to the status of full professor.</p><p>Her early research centered on the embryological origins of the lymphatic system, and she later worked on the origins of blood, blood cells, and blood vessels, on the histology of the brain, and on the pathology and immunology of tuberculosis.</p><p>In September, 1925, Sabin accepted the invitation to head the Department of Cellular Studies at the Rockefeller Institute, becoming the first woman faculty member there, and continuing her work on tuberculosis. She retired to Colorado in 1938, but emerged six years later at the request of the governor to chair a subcommittee on public health and help reform and modernize the state's public health system. She retired a second time in 1951 and died October 3, 1953.</p><p>Honors accrued to Sabin throughout her career, including a number of firsts. In addition to being the first female graduate of Hopkins medical school, the first full professor there, and the first at Rockefeller, she was the first president of the American Association of Anatomists (1924) and the first woman member of the National Academy of Sciences (1925). She was selected as one of two representatives for the state of Colorado in the National Statuary Hall in the U.S. Capitol.</p>"
+        },
+
+        children: [{
+        },{
+            id: "Osler",
+            name: "William Osler",
+            data: {
+                relation: "<h2></h2>"
+            },
+            children: []
+        },{
+
+
+
+
+}]
+
+
+
+
+    /*}, {
+        id: "236594_38",
+        name: "Anthropologists",
+        data: {
+            relation: "<h2>Anthropologists</h2><p></p>"
+        },
+        children: [{
+            id: "Wallace",
+            name: "Pamela Wallace",
+            data: {
+                relation: "<h2>Florence Barbara Seibert (1897-1991)</h2><br /><div class='bio-text'>"
+            },
+            children: []
+        },{
+            id: "Parsons",
+            name: "Elsie Clews Parsons",
+            data: {
+                relation: "<h2>Elsie Worthington Clews Parsons (1875-1941)</h2><br /><div class='bio-text'>Elsie Worthington Clews Parsons (1875-1941) was a sociologist, anthropologist, and folklorist. By birth and marriage, Parsons belonged to the wealthy, social, and generally conservative circles of New York City. Nevertheless, the chose to study at newly founded Barnard College (B.A. 1896) and received a doctorate in sociology from Columbia University in 1899. In 1900 Elsie Clews married New York lawyer Herbert Parsons, who later became a Republican National Committeeman (1916-1920). They had six children, four of whom survived: Elsie (Lissa) born in 1901, John Edward in 1903, Herbert in 1909, and Henry McIlvaine (Mac) in 1911.</div>"
+            },
+            children: []
+        },{
+            id: "Hass",
+            name: "Mary Rosamond Haas",
+            data: {
+                relation: "<h2>Mary Rosamond Haas (1910-1996)</h2><br /><div class='bio-text'></p>Mary Rosamond Haas (1910-1996) was a leading contributor to documentary, historical and comparative linguistics in North America. Born in Richmond, Indiana, she attended Richmond College pursuing her primary love of piano, and at the age of 20 enrolled at the University of Chicago to study comparative philology. There she met her first husband Morris Swadesh, and studied under Edward Sapir, whom she followed to Yale in 1931.</p><p>Haas' academic career led to her receiving honorary doctorates from multiple institutions, a Berkeley Citation, membership in the National Academy of Sciences and the American Academy of Arts and Sciences, presidency of the Linguistic Society of America in 1963, and undertaking several visiting professorships. Her rigorous, expansive and organized approach to research, and her dedication to linguistics into the 1980s, makes for a collection that touches on and contributes to the study of well over a hundred languages of the Americas and Southeast Asia.</p></div>"
+            },
+            children: []
+        },/*{
+            id: "ISM",
+            name: "Independence Seaport Museum",
+            data: {
+                relation: ""
+            },
+            children: []
+        }]*/
+    }, ],
+    data: {
+        relation: "<h2>Women Scientists of the APS</h2><p>This project visulaizes the connections between women scientists found among the collections of the American Philosophical Society.</p>"
+    }
+};

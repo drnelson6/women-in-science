@@ -1,0 +1,1672 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "Florence Rena Sabin"
+        },
+        {
+            "id": "Maude E. Abbott"
+        },
+        {
+            "id": "Dr. Louise Frazee"
+        },
+        {
+            "id": "Dr. Ethel Mya Das"
+        },
+        {
+            "id": "J. Burns Amberson, Jr."
+        },
+        {
+            "id": "Christianna Smith"
+        },
+        {
+            "id": "Dr. Elizabaeth Reese Wilkens"
+        },
+        {
+            "id": "J. Rudolph Anderson"
+        },
+        {
+            "id": "Dr. Persis Putnam"
+        },
+        {
+            "id": "Dr. Ethel C. Dunham"
+        },
+        {
+            "id": "Franz Boas"
+        },
+        {
+            "id": "Miss Dorothy Wiehl"
+        },
+        {
+            "id": "Dorothy H. Anderson"
+        },
+        {
+            "id": "Dr C. H. Boissevain"
+        },
+        {
+            "id": "Dorothea Schallert Fuller"
+        },
+        {
+            "id": "Doctor Roxie Weber"
+        },
+        {
+            "id": "Dr. Alfred E. Cohn"
+        },
+        {
+            "id": "Dr Lenna Meanes"
+        },
+        {
+            "id": "Dr. Anna Baetjer"
+        },
+        {
+            "id": "Dr. H. J. Corper"
+        },
+        {
+            "id": "Miss Elizabeth Stewart"
+        },
+        {
+            "id": "Dr. George Washington Corner"
+        },
+        {
+            "id": "Dr. Margaret Taylor Ross"
+        },
+        {
+            "id": "Dr. W.E. Cotton"
+        },
+        {
+            "id": "Dr. E.V. Cowdry"
+        },
+        {
+            "id": "Dr. Elizabeth Bass"
+        },
+        {
+            "id": "Dr. Robert S. Cunningham"
+        },
+        {
+            "id": "Helen Dean King"
+        },
+        {
+            "id": "Dr. Charles Doan"
+        },
+        {
+            "id": "Florence Barbara Seibert"
+        },
+        {
+            "id": "Dr. Hal Downey"
+        },
+        {
+            "id": "Frieda Baumann"
+        },
+        {
+            "id": "Dr. Cecil K Drinker"
+        },
+        {
+            "id": "Dr. Rose F. Beals"
+        },
+        {
+            "id": "Abraham Flexner"
+        },
+        {
+            "id": "Dr. Regina C. Beck"
+        },
+        {
+            "id": "Simon Flexner"
+        },
+        {
+            "id": "Consuelo Vadillo"
+        },
+        {
+            "id": "Dr. Alice Hamilton"
+        },
+        {
+            "id": "Dr. Gladys Dick"
+        },
+        {
+            "id": "Donald R. Hooker"
+        },
+        {
+            "id": "Dr. Rebecca Lancefield"
+        },
+        {
+            "id": "Dr. Franklin R. Miller"
+        },
+        {
+            "id": "Dr. Clara Lynch"
+        },
+        {
+            "id": "Dr. Louise Pierce"
+        },
+        {
+            "id": "Virginia C. Gildersleeve"
+        },
+        {
+            "id": "Dr. Josephine Bicknell Neal"
+        },
+        {
+            "id": "Dr. Foa"
+        },
+        {
+            "id": "Dr. Bertha Van Hoosen"
+        },
+        {
+            "id": "Dr. Kate Campbell Mead"
+        },
+        {
+            "id": "Dr. Catherine Macfarlane"
+        },
+        {
+            "id": "Dr. Martha Tracy"
+        },
+        {
+            "id": "Dr. Esther Richards"
+        },
+        {
+            "id": "Dr. Jessie L. King"
+        },
+        {
+            "id": "Miss Mary Denton"
+        },
+        {
+            "id": "Vera Danchakoff"
+        },
+        {
+            "id": "Miss M. A. Nutting"
+        },
+        {
+            "id": "Dr. Marion Hines"
+        },
+        {
+            "id": "Dr. Sarah Tower"
+        },
+        {
+            "id": "Nina Simmonds Estill"
+        },
+        {
+            "id": "Dr. Marietta Blau"
+        },
+        {
+            "id": "Agnes Pockels"
+        },
+        {
+            "id": "Emmy Noether"
+        },
+        {
+            "id": "Lisa Meitner"
+        },
+        {
+            "id": "Madame Remar-Lucas"
+        },
+        {
+            "id": "Dr. Christine Essenberg"
+        },
+        {
+            "id": "Dr Hertha Spooner"
+        },
+        {
+            "id": "Dr. Matilda Moldenhauer Brooks"
+        },
+        {
+            "id": "Mrs. Hess"
+        },
+        {
+            "id": "Mrs. Henry Breckenridge"
+        },
+        {
+            "id": "Mrs Denison"
+        },
+        {
+            "id": "Laura Florence, PhD"
+        },
+        {
+            "id": "Dr. Jean McNamara"
+        },
+        {
+            "id": "Dr. Nora Archer Oxford"
+        },
+        {
+            "id": "Dr. Virginia K. Frantz"
+        },
+        {
+            "id": "Miss Adelaide Baylis"
+        },
+        {
+            "id": "Dr. Ruby Hirose Sabin"
+        },
+        {
+            "id": "Margaret Reed Lewis"
+        },
+        {
+            "id": "Evelyn Man"
+        },
+        {
+            "id": "Maud L. Menten"
+        },
+        {
+            "id": "Dr Helen T. Woolley"
+        },
+        {
+            "id": "Dorothy Wrinch"
+        },
+        {
+            "id": "Madame Ramart-Lucas"
+        },
+        {
+            "id": "Professor Johanna Westerdijk"
+        },
+        {
+            "id": "Dr. Annie Porter Ellen"
+        },
+        {
+            "id": "Dr. Anna Cannon"
+        },
+        {
+            "id": "Dr. Jogteko"
+        },
+        {
+            "id": "Norma LeVoque"
+        },
+        {
+            "id": "Miss Caroline McGill"
+        },
+        {
+            "id": "Minnie Reed"
+        },
+        {
+            "id": "Miss Mary E. Pinney"
+        },
+        {
+            "id": "Miss Caroline B. Thompson"
+        },
+        {
+            "id": "Miss Rhoda Erdmann"
+        },
+        {
+            "id": "Miss Florence Peebles"
+        },
+        {
+            "id": "Gulli Lindh Muller"
+        },
+        {
+            "id": "Janet McCarter"
+        },
+        {
+            "id": "Dr. Mary Sherwood"
+        },
+        {
+            "id": "Dorothy Anderson"
+        },
+        {
+            "id": "Elaine Ralli"
+        },
+        {
+            "id": "Dr Nelle S. Noble"
+        },
+        {
+            "id": "Lewis Affronti"
+        },
+        {
+            "id": "Nina Choucroun"
+        },
+        {
+            "id": "Dr. Hilda Pope Willett"
+        },
+        {
+            "id": "Floyd M. Feldmann"
+        },
+        {
+            "id": "Elizabeth Ehsleman Miller"
+        },
+        {
+            "id": "Mrs. Ellen Burtner Bevilacqua"
+        },
+        {
+            "id": "Jules Freund"
+        },
+        {
+            "id": "Teresina Patino"
+        },
+        {
+            "id": "Dr. Ruth Breitwisser"
+        },
+        {
+            "id": "Luis M. Gonzales"
+        },
+        {
+            "id": "Gail L. Miller"
+        },
+        {
+            "id": "Dr. Lydia Edwards"
+        },
+        {
+            "id": "Irene Diller"
+        },
+        {
+            "id": "Marion Fay"
+        },
+        {
+            "id": "Charlotte C. Campbell"
+        },
+        {
+            "id": "Esmond R. Long"
+        },
+        {
+            "id": "Lafayette B. Mendel"
+        },
+        {
+            "id": "Phyllis Q. Edwards"
+        },
+        {
+            "id": "Carroll E. Palmer"
+        },
+        {
+            "id": "Dr. Emily Emmart"
+        },
+        {
+            "id": "Dr. Margaret Hotchkiss"
+        },
+        {
+            "id": "Arne Tiselius"
+        },
+        {
+            "id": "Angelina Fabrizio"
+        },
+        {
+            "id": "Dennis W. Watson"
+        },
+        {
+            "id": "Edith Lincoln"
+        },
+        {
+            "id": "J. W. Williams"
+        },
+        {
+            "id": "Dr Ruth E Gordon"
+        },
+        {
+            "id": "Dr. Dorothy H. Heilman"
+        },
+        {
+            "id": "Dr. Gladys Hobby"
+        },
+        {
+            "id": "Dr. Rosette Coidan"
+        },
+        {
+            "id": "Henrietta Lacks"
+        },
+        {
+            "id": "Virginia Livingston"
+        },
+        {
+            "id": "Oksana Lycakowakuj"
+        },
+        {
+            "id": "Chinyere Wogu"
+        },
+        {
+            "id": "Lucia J. Dunham"
+        },
+        {
+            "id": "Libbie H. Hyman"
+        },
+        {
+            "id": "Cynthia Pierce-Chase"
+        },
+        {
+            "id": "Ruth Kundsin"
+        },
+        {
+            "id": "Eva Soto Figueroa Leake"
+        },
+        {
+            "id": "Eugenia Cardona Lynch"
+        },
+        {
+            "id": "Mary C. Pangborn"
+        },
+        {
+            "id": "Mary L. Petermann"
+        },
+        {
+            "id": "Margaret Pittman"
+        },
+        {
+            "id": "Barbara McClintock"
+        },
+        {
+            "id": "William L. Brown"
+        },
+        {
+            "id": "Dr. Brenda Lowe"
+        },
+        {
+            "id": "Mrs Buchanan"
+        },
+        {
+            "id": "Almiro Blumenschein"
+        },
+        {
+            "id": "Lucille Shapiro"
+        },
+        {
+            "id": "Maxine F. Singer"
+        },
+        {
+            "id": "Benjamin Burr"
+        },
+        {
+            "id": "Virginia Walbot"
+        },
+        {
+            "id": "Nina V. Fedoroff"
+        },
+        {
+            "id": "T. Angel Kato Yamakake"
+        },
+        {
+            "id": "Evelyn Witkin"
+        },
+        {
+            "id": "Vicki L. Chandler"
+        },
+        {
+            "id": "Joshua Lederberg"
+        },
+        {
+            "id": "Wilma Hu"
+        },
+        {
+            "id": "Oliver E. Nelson"
+        },
+        {
+            "id": "Nancy Kleckner"
+        },
+        {
+            "id": "Kenneth Paigen"
+        },
+        {
+            "id": "Anita Klein"
+        },
+        {
+            "id": "Peter A. Peterson"
+        },
+        {
+            "id": "Lovie Taylor"
+        },
+        {
+            "id": "Marcus M. Rhoades"
+        },
+        {
+            "id": "Marcella McClure"
+        },
+        {
+            "id": "Peter Starlinger"
+        },
+        {
+            "id": "Maria Luisa Martinez"
+        },
+        {
+            "id": "James A. Shapiro"
+        },
+        {
+            "id": "Christine Mitchell"
+        },
+        {
+            "id": "Nancy Shepherd"
+        },
+        {
+            "id": "Susan R. Wessler"
+        },
+        {
+            "id": "Franklin P. Mall"
+        },
+        {
+            "id": "William Osler"
+        },
+        {
+            "id": "Carrie B. Fuld"
+        },
+        {
+            "id": "Jessie E. Minor"
+        },
+        {
+            "id": "Theodor Svedberg"
+        },
+        {
+            "id": "H. Gideon Wells"
+        },
+        {
+            "id": "Lester Sharp"
+        },
+        {
+            "id": "Janet Howell Clark"
+        },
+        {
+            "id": "Dr. Nina Simmonds"
+        },
+        {
+            "id": "Albert Einstein"
+        },
+        {
+            "id": "Esther Caukin Brannauer"
+        },
+        {
+            "id": "Mrs Franklin N. Daskam"
+        },
+        {
+            "id": "Wilhelmina Dunning"
+        },
+        {
+            "id": "Thelma B. Dunn"
+        },
+        {
+            "id": "Mabel V. Seibert"
+        },
+        {
+            "id": "Mildred Meekins"
+        },
+        {
+            "id": "Mamie Cameron"
+        },
+        {
+            "id": "Ute Busemann"
+        },
+        {
+            "id": "Lois Freay"
+        },
+        {
+            "id": "Women in Science Collections at the APS"
+        }
+    ],
+    "links": [
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Maude E. Abbott"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Louise Frazee"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Ethel Mya Das"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "J. Burns Amberson, Jr."
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Christianna Smith"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Elizabaeth Reese Wilkens"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "J. Rudolph Anderson"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Persis Putnam"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Ethel C. Dunham"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Franz Boas"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Dorothy Wiehl"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dorothy H. Anderson"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr C. H. Boissevain"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Dorothea Schallert Fuller"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Doctor Roxie Weber"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Alfred E. Cohn"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr Lenna Meanes"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Anna Baetjer"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. H. J. Corper"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Elizabeth Stewart"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. George Washington Corner"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Margaret Taylor Ross"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. W.E. Cotton"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. E.V. Cowdry"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Elizabeth Bass"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Robert S. Cunningham"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Helen Dean King"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Charles Doan"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Florence Barbara Seibert"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Hal Downey"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Frieda Baumann"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Cecil K Drinker"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Rose F. Beals"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Abraham Flexner"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Regina C. Beck"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Simon Flexner"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Consuelo Vadillo"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Alice Hamilton"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Gladys Dick"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Donald R. Hooker"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Rebecca Lancefield"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Franklin R. Miller"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Clara Lynch"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Louise Pierce"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Virginia C. Gildersleeve"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Josephine Bicknell Neal"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Foa"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Bertha Van Hoosen"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Kate Campbell Mead"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Catherine Macfarlane"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Martha Tracy"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Esther Richards"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Jessie L. King"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Mary Denton"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Vera Danchakoff"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss M. A. Nutting"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Marion Hines"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Sarah Tower"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Nina Simmonds Estill"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Marietta Blau"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Agnes Pockels"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Emmy Noether"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Lisa Meitner"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Madame Remar-Lucas"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Christine Essenberg"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr Hertha Spooner"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Matilda Moldenhauer Brooks"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Mrs. Hess"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Mrs. Henry Breckenridge"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Mrs Denison"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Laura Florence, PhD"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Jean McNamara"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Nora Archer Oxford"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Virginia K. Frantz"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Adelaide Baylis"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Ruby Hirose Sabin"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Margaret Reed Lewis"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Evelyn Man"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Maud L. Menten"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr Helen T. Woolley"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dorothy Wrinch"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Madame Ramart-Lucas"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Professor Johanna Westerdijk"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Annie Porter Ellen"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Anna Cannon"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Jogteko"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Norma LeVoque"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Caroline McGill"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Minnie Reed"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Mary E. Pinney"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Caroline B. Thompson"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Rhoda Erdmann"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Miss Florence Peebles"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Gulli Lindh Muller"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Janet McCarter"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Mary Sherwood"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dorothy Anderson"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Elaine Ralli"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Dr Nelle S. Noble"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Rena Sabin",
+            "target": "Franklin P. Mall"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Rena Sabin",
+            "target": "William Osler"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Rena Sabin",
+            "target": "Carrie B. Fuld"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Esmond R. Long"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Janet Howell Clark"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Rena Sabin",
+            "target": "Dr. Nina Simmonds"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Rena Sabin",
+            "target": "Albert Einstein"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Rena Sabin",
+            "target": "Esther Caukin Brannauer"
+        },
+        {
+            "source": "Florence Rena Sabin",
+            "target": "Women in Science Collections at the APS"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Dr. Persis Putnam",
+            "target": "Janet Howell Clark"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Miss Dorothy Wiehl",
+            "target": "Janet Howell Clark"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Dr Lenna Meanes",
+            "target": "Dr. Alice Hamilton"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Dr Lenna Meanes",
+            "target": "Dr. Nina Simmonds"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Lewis Affronti"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Nina Choucroun"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Hilda Pope Willett"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Floyd M. Feldmann"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Elizabeth Ehsleman Miller"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Mrs. Ellen Burtner Bevilacqua"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Jules Freund"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Teresina Patino"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Ruth Breitwisser"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Luis M. Gonzales"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Barbara Seibert",
+            "target": "Gail L. Miller"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Lydia Edwards"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Irene Diller"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Florence Barbara Seibert",
+            "target": "Marion Fay"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Charlotte C. Campbell"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Barbara Seibert",
+            "target": "Esmond R. Long"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Lafayette B. Mendel"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Phyllis Q. Edwards"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Carroll E. Palmer"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Emily Emmart"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Margaret Hotchkiss"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Arne Tiselius"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Angelina Fabrizio"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Dennis W. Watson"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Edith Lincoln"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "J. W. Williams"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Jessie L. King"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr Ruth E Gordon"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Dorothy H. Heilman"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Gladys Hobby"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Dr. Rosette Coidan"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Henrietta Lacks"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Virginia Livingston"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Oksana Lycakowakuj"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Chinyere Wogu"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Lucia J. Dunham"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Libbie H. Hyman"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Cynthia Pierce-Chase"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Ruth Kundsin"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Eva Soto Figueroa Leake"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Eugenia Cardona Lynch"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Mary C. Pangborn"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Mary L. Petermann"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Margaret Pittman"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Janet McCarter"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Barbara Seibert",
+            "target": "Jessie E. Minor"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Barbara Seibert",
+            "target": "Theodor Svedberg"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Florence Barbara Seibert",
+            "target": "H. Gideon Wells"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Florence Barbara Seibert",
+            "target": "Mrs Franklin N. Daskam"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Wilhelmina Dunning"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Thelma B. Dunn"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Mabel V. Seibert"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Lois Freay"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Mildred Meekins"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Mamie Cameron"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Florence Barbara Seibert",
+            "target": "Ute Busemann"
+        },
+        {
+            "source": "Florence Barbara Seibert",
+            "target": "Women in Science Collections at the APS"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Abraham Flexner",
+            "target": "Dr Hertha Spooner"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Dr. Marion Hines",
+            "target": "Dr. Sarah Tower"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Dr. Marietta Blau",
+            "target": "Albert Einstein"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Emmy Noether",
+            "target": "Albert Einstein"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Lisa Meitner",
+            "target": "Esther Caukin Brannauer"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Elizabeth Ehsleman Miller",
+            "target": "Eva Soto Figueroa Leake"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Elizabeth Ehsleman Miller",
+            "target": "Mabel V. Seibert"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Elizabeth Ehsleman Miller",
+            "target": "Mildred Meekins"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Elizabeth Ehsleman Miller",
+            "target": "Mamie Cameron"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Elizabeth Ehsleman Miller",
+            "target": "Ute Busemann"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Elizabeth Ehsleman Miller",
+            "target": "Lois Freay"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Irene Diller",
+            "target": "Dr. Rosette Coidan"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Irene Diller",
+            "target": "Henrietta Lacks"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Irene Diller",
+            "target": "Virginia Livingston"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Marion Fay",
+            "target": "Mrs Franklin N. Daskam"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Dr. Margaret Hotchkiss",
+            "target": "Angelina Fabrizio"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Lucia J. Dunham",
+            "target": "Wilhelmina Dunning"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Lucia J. Dunham",
+            "target": "Thelma B. Dunn"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Eva Soto Figueroa Leake",
+            "target": "Eugenia Cardona Lynch"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "William L. Brown"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Barbara McClintock",
+            "target": "Dr. Brenda Lowe"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Mrs Buchanan"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Almiro Blumenschein"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Lucille Shapiro"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Maxine F. Singer"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Benjamin Burr"
+        },
+        {
+            "relation": "Letter of Reccomendation",
+            "source": "Barbara McClintock",
+            "target": "Virginia Walbot"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Nina V. Fedoroff"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "T. Angel Kato Yamakake"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Evelyn Witkin"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Vicki L. Chandler"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Joshua Lederberg"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Wilma Hu"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Oliver E. Nelson"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Nancy Kleckner"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Kenneth Paigen"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Anita Klein"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Peter A. Peterson"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Lovie Taylor"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Marcus M. Rhoades"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Marcella McClure"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "Peter Starlinger"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Maria Luisa Martinez"
+        },
+        {
+            "relation": "Correspondence",
+            "source": "Barbara McClintock",
+            "target": "James A. Shapiro"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Christine Mitchell"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Nancy Shepherd"
+        },
+        {
+            "relation": "Women appearing in letters",
+            "source": "Barbara McClintock",
+            "target": "Susan R. Wessler"
+        },
+        {
+            "relation": "Mentors",
+            "source": "Barbara McClintock",
+            "target": "Lester Sharp"
+        },
+        {
+            "source": "Barbara McClintock",
+            "target": "Women in Science Collections at the APS"
+        }
+    ]
+}
