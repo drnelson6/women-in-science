@@ -2,8 +2,9 @@ html, body {
   font-family: "Proxima Nova Regular","Segoe UI",Roboto,"Droid Sans","Helvetica Neue",Arial,sans-serif;
 }
 
-/* Funky default viewBox styling suggestions. Don't use!*/
-/*.svg-container {
+/* Funky default viewBox styling suggestions. Don't use! */
+
+/* .svg-container {
     display: inline-block;
     position: relative;
     width: 100%;
@@ -19,7 +20,7 @@ html, body {
     top: 0;
     left: 0;
     bottom: 0;
-}*/
+} */
 
 /* styling from SDFB project that works much better */
 .svg-container {
