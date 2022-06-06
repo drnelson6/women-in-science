@@ -956,13 +956,6 @@
             "id": "W0127"
         },
         {
-            "name": "Dr. Leanna Means",
-            "bio": "Maecenas venenatis facilisis magna ac ultrices. Sed mollis ex mauris. Nunc luctus leo massa, quis scelerisque est finibus ac. Donec at pretium risus, vitae scelerisque neque. Curabitur a urna dolor. Mauris vulputate, tellus a laoreet blandit, neque justo eleifend velit, non porttitor lorem nibh et dui. Donec odio enim, feugiat at fermentum at, hendrerit vel orci. Vivamus vestibulum dolor nec justo blandit, placerat varius metus condimentum. Aenean dolor metus, lacinia non fermentum sit amet, viverra et ex.",
-            "degree": 2,
-            "modularity": 6,
-            "id": "M0174"
-        },
-        {
             "name": "Florence Rena Sabin",
             "bio": "Nullam in nibh pharetra mauris fringilla molestie a a nulla. Vivamus quis nisl magna. Nulla luctus sollicitudin metus, et vulputate enim semper quis. Sed dictum volutpat felis, eu fermentum massa. Nulla nisi mi, posuere suscipit mi ut, feugiat tempor libero. Vestibulum consectetur magna eget commodo venenatis. Pellentesque vitae nunc metus. Etiam eget arcu quis sem efficitur auctor. Donec ut est at mauris consequat convallis sed molestie metus. Proin a semper dolor.",
             "degree": 129,
@@ -1259,8 +1252,8 @@
         {
             "name": "Dr Leanna Meanes",
             "bio": "Nullam in nibh pharetra mauris fringilla molestie a a nulla. Vivamus quis nisl magna. Nulla luctus sollicitudin metus, et vulputate enim semper quis. Sed dictum volutpat felis, eu fermentum massa. Nulla nisi mi, posuere suscipit mi ut, feugiat tempor libero. Vestibulum consectetur magna eget commodo venenatis. Pellentesque vitae nunc metus. Etiam eget arcu quis sem efficitur auctor. Donec ut est at mauris consequat convallis sed molestie metus. Proin a semper dolor.",
-            "degree": 1,
-            "modularity": 0,
+            "degree": 3,
+            "modularity": 6,
             "id": "M0531"
         },
         {
@@ -2818,16 +2811,6 @@
             "target": "S8759"
         },
         {
-            "relation": "received letter of recommendation about",
-            "source": "M0174",
-            "target": "H1238"
-        },
-        {
-            "relation": "received letter of recommendation about",
-            "source": "M0174",
-            "target": "E4878"
-        },
-        {
             "relation": "mentor relationship",
             "source": "S7617",
             "target": "O7047"
@@ -3213,6 +3196,11 @@
             "target": "B4046"
         },
         {
+            "relation": "received letter of recommendation about",
+            "source": "H1238",
+            "target": "M0531"
+        },
+        {
             "relation": "Women appearing in letters",
             "source": "M1332",
             "target": "S8759"
@@ -3246,6 +3234,11 @@
             "relation": "Women appearing in letters",
             "source": "M4429",
             "target": "M4351"
+        },
+        {
+            "relation": "received letter of recommendation about",
+            "source": "M0531",
+            "target": "E4878"
         },
         {
             "relation": "Letter of Reccomendation",

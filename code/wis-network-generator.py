@@ -10,8 +10,8 @@ import csv
 from networkx.algorithms import community
 import json
 
-node_path = 'wis-node-list-test.csv'
-edge_path = 'wis-edge-list-ids.csv'
+node_path = 'U:\\women-in-science\data\wis-node-list-test.csv'
+edge_path = 'U:\\women-in-science\data\wis-edge-list-ids.csv'
 
 with open(node_path, 'r') as nodecsv:
     nodereader = csv.reader(nodecsv)  # read the csv
