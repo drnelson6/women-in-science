@@ -221,7 +221,7 @@
             "id": "S1224"
         },
         {
-            "name": "Cohn recomments Kayne for membership in the American Society of Biological Chemists, as well as for Assistant Professor at University of Pennsylvania in 1975, and then for a molecular bioligist in 1977 at Colorado State University, again in 1976 she recommends her to Bryn Mawr (see \"Z\" folder). Kayne worked with Cohn in her laboratory.",
+            "name": "Marlene Kayne",
             "bio": "Integer fermentum purus vitae ipsum eleifend luctus mollis sed odio. Nullam a arcu eleifend, pharetra ligula sit amet, lacinia tellus. Mauris tincidunt justo eu nibh luctus volutpat. Nunc dictum eget tellus ullamcorper aliquam. Nulla vitae tempor odio, et fringilla sem. Praesent imperdiet et lectus ut pulvinar. Duis sagittis augue sed justo sodales, in malesuada nisi condimentum. Vivamus rutrum urna non quam elementum tincidunt. Cras lobortis, diam in aliquam bibendum, eros metus pellentesque lacus, vel facilisis augue dui a nibh. Morbi non elementum ipsum, vitae congue neque. Donec maximus nisl non nisi condimentum, non mollis nisi viverra. Maecenas nunc dolor, dignissim eget metus a, interdum pellentesque velit. Fusce ac ex sed dolor pulvinar ultricies eu eget urna.",
             "degree": 1,
             "modularity": 2,
@@ -1196,8 +1196,8 @@
         {
             "name": "Jenny Glusker",
             "bio": "Integer fermentum purus vitae ipsum eleifend luctus mollis sed odio. Nullam a arcu eleifend, pharetra ligula sit amet, lacinia tellus. Mauris tincidunt justo eu nibh luctus volutpat. Nunc dictum eget tellus ullamcorper aliquam. Nulla vitae tempor odio, et fringilla sem. Praesent imperdiet et lectus ut pulvinar. Duis sagittis augue sed justo sodales, in malesuada nisi condimentum. Vivamus rutrum urna non quam elementum tincidunt. Cras lobortis, diam in aliquam bibendum, eros metus pellentesque lacus, vel facilisis augue dui a nibh. Morbi non elementum ipsum, vitae congue neque. Donec maximus nisl non nisi condimentum, non mollis nisi viverra. Maecenas nunc dolor, dignissim eget metus a, interdum pellentesque velit. Fusce ac ex sed dolor pulvinar ultricies eu eget urna.",
-            "degree": 1,
-            "modularity": 2,
+            "degree": 2,
+            "modularity": 4,
             "id": "G8761"
         },
         {
@@ -1672,7 +1672,7 @@
         {
             "name": "Rose Mooney Slater",
             "bio": "Mauris orci dui, viverra vel scelerisque sit amet, interdum id justo. Pellentesque purus ipsum, feugiat eget posuere bibendum, sodales vitae erat. Morbi suscipit ac felis porttitor ultricies. Fusce placerat aliquam enim, vitae dignissim quam. Morbi at arcu non nisi luctus interdum. Aliquam erat volutpat. Sed finibus, erat quis mollis elementum, eros lectus suscipit lectus, at consequat nisl nunc sed sem. Ut et commodo ipsum. Etiam ullamcorper orci eget risus laoreet bibendum vitae sed purus.",
-            "degree": 13,
+            "degree": 14,
             "modularity": 4,
             "id": "S7325"
         },
@@ -3218,6 +3218,11 @@
         {
             "relation": "corresponded with|worked in same institution as",
             "source": "D6685",
+            "target": "S7325"
+        },
+        {
+            "relation": "corresponded with|used each other's research",
+            "source": "G8761",
             "target": "S7325"
         },
         {
