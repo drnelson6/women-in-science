@@ -127,6 +127,8 @@ d3.json("wis.json", function(error, graph) {
           }
         })
       })
+      .on('mouseover.fade', fade(0.1))
+      .on('mouseout.fade', fade(1))
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -195,7 +197,31 @@ d3.json("wis.json", function(error, graph) {
               return "translate(" + (d.x) + "," + (d.y + 2.5) + ")"
             })
   }
-});
+
+  // parameters for node filtering, courtesy of Alejandro Suarez: https://bl.ocks.org/almsuarez/4333a12d2531d6c1f6f22b74f2c57102
+    const linkedByIndex = {};
+    graph.links.forEach(d => {
+      linkedByIndex[`${d.source.index},${d.target.index}`] = 1;
+    });
+
+    function isConnected(a, b) {
+      return linkedByIndex[`${a.index},${b.index}`] || linkedByIndex[`${b.index},${a.index}`] || a.index === b.index;
+    }
+
+    function fade(opacity) {
+      return d => {
+        node.style('stroke-opacity', function (o) {
+          const thisOpacity = isConnected(d, o) ? 1 : opacity;
+          this.setAttribute('fill-opacity', thisOpacity);
+          return thisOpacity;
+        });
+
+        link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+
+      };
+    }
+  });
+
 
 // displaying and hiding labels
 
