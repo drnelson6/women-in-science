@@ -8,7 +8,7 @@ Created on Wed Jun  1 14:38:29 2022
 import csv
 import random
 
-path = 'wis-edge-list-2022-06-01.csv'
+path = 'U:\\women-in-science\data\edge-list-brown-bag.csv'
 
 with open(path, 'r') as f:
     reader = csv.reader(f)

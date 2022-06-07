@@ -8,8 +8,8 @@ Created on Fri May 13 11:45:35 2022
 import csv
 import pandas as pd
 
-node_path = 'wis-bio-list-2022-06-01.csv'
-edge_path = 'wis-edge-list-2022-06-01.csv'
+node_path = 'U:\\women-in-science\data\wis-bio-list-2022-06-01.csv'
+edge_path = 'U:\\women-in-science\data\edge-list-brown-bag.csv'
 
 with open(node_path, 'r') as f:
     node_reader = csv.reader(f)
