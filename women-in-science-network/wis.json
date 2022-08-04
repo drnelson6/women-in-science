@@ -40,9 +40,9 @@
         },
         {
             "name": "Dorothy H. Anderson",
-            "bio": "Dorothy H. Anderson worked under Florence Sabin at Johns Hopkins University. Following her time at JHU she spent a year at the University of Rochester, but was denied a residency due to her gender. She then went on to work at Columbia University where she first identified cystic fibrosis and created a dagnostic test for cystic fibrosis. ",
+            "bio": "Dorothy H. Anderson worked under Florence Sabin at Johns Hopkins University. Following her time at JHU she spent a year at the University of Rochester, but was denied a residency due to her gender. She then went on to work at Columbia University where she first identified cystic fibrosis and created a dagnostic test for cystic fibrosis.",
             "degree": 2,
-            "modularity": 10,
+            "modularity": 9,
             "id": "dorothy-anderson-pathology"
         },
         {
@@ -61,7 +61,7 @@
         },
         {
             "name": "Anna Baetjer",
-            "bio": "Anna Baetjer worked in industrial hygeine and studied the correlations between cancer and chromium exposure. She both studied and taught at Johns Hopkins University. Her research focused on how women in the workforce could be safer, particularly when lifting heavy loads, operating machinery, and limiting work weeks to sex days.",
+            "bio": "Anna Baetjer worked in industrial hygeine and studied the correlations between cancer and chromium exposure. She both studied and taught at Johns Hopkins University. Her research focused on how women in the workforce could be safer, particularly when lifting heavy loads, operating machinery, and limiting work weeks to six days.",
             "degree": 1,
             "modularity": 0,
             "id": "31884691"
@@ -75,14 +75,14 @@
         },
         {
             "name": "Pam Batchelor",
-            "bio": "",
-            "degree": 1,
+            "bio": "Pam Batchelor served for many years as the secretary for David Phillips, a well-regarded biophysicist and crystallographer. Though not herself a researcher, she helped provide research data to both Mildred Cohn and Jenny Glusker. Cohn thanks her in two separate notes addressed specifically to her. ",
+            "degree": 2,
             "modularity": 2,
             "id": "pam-batchelor-biophysics"
         },
         {
             "name": "Frieda Baumann",
-            "bio": "Frieda Baumann graduated from Women's College of Philadelphia and later served as President of the Alumane Association of the Woman's Medical College of Pennsylvania. She was a fellow of the American College of Physicians and a member of the American Women's Medical Association. ",
+            "bio": "Frieda Baumann graduated from Women's College of Philadelphia and later served as President of the Alumane Association of the Woman's Medical College of Pennsylvania. She was a fellow of the American College of Physicians and a member of the American Women's Medical Association.",
             "degree": 1,
             "modularity": 0,
             "id": "frieda-baumann-medicine"
@@ -252,7 +252,7 @@
             "name": "Charlotte C. Campbell",
             "bio": "",
             "degree": 4,
-            "modularity": 8,
+            "modularity": 1,
             "id": "charlotte-campbell-medicine"
         },
         {
@@ -292,9 +292,9 @@
         },
         {
             "name": "Gina Castelnuovo",
-            "bio": "",
+            "bio": "Gina Castelnuovo was an Italian zoologist, microbiologist, and pathologist. Daughter of the famous mathematician Guido Castelnuovo, she had a successful career in Rome working on a wide variety of topics, including the embryology and biometry of insects, the influence of sexual hormones on fish development, and the hormonal development of rats. She was forced to flee Italy in 1938 on account of being Jewish. She reached the United States after a brief stay at Copenhagen and continued her career in Philadelphia and Columbia, Missouri. After the war, Castelnuovo returned to Rome where she continued to be an influential biologist.",
             "degree": 3,
-            "modularity": 9,
+            "modularity": 8,
             "id": "gina-castelnuovo-biology"
         },
         {
@@ -321,8 +321,8 @@
         {
             "name": "Janet Howell Clark",
             "bio": "",
-            "degree": 9,
-            "modularity": 6,
+            "degree": 13,
+            "modularity": 5,
             "id": "34818238"
         },
         {
@@ -349,7 +349,7 @@
         {
             "name": "Mildred Cohn",
             "bio": "",
-            "degree": 47,
+            "degree": 48,
             "modularity": 2,
             "id": "28353569"
         },
@@ -371,7 +371,7 @@
             "name": "George Washington Corner",
             "bio": "",
             "degree": 2,
-            "modularity": 6,
+            "modularity": 5,
             "id": "42219648"
         },
         {
@@ -438,7 +438,7 @@
             "id": "ethel-das-medicine"
         },
         {
-            "name": "Mrs M. Franklin Daskam",
+            "name": "Gladys Dow Daskam",
             "bio": "",
             "degree": 2,
             "modularity": 1,
@@ -455,7 +455,7 @@
             "name": "Muriel Davisson",
             "bio": "",
             "degree": 1,
-            "modularity": 5,
+            "modularity": 6,
             "id": "43170159"
         },
         {
@@ -476,21 +476,21 @@
             "name": "Mary Denton",
             "bio": "",
             "degree": 2,
-            "modularity": 9,
+            "modularity": 8,
             "id": "mary-denton-medicine"
         },
         {
             "name": "Gladys Dick",
             "bio": "",
             "degree": 2,
-            "modularity": 6,
+            "modularity": 5,
             "id": "26144977"
         },
         {
             "name": "Margaret Dickie",
             "bio": "",
             "degree": 2,
-            "modularity": 5,
+            "modularity": 6,
             "id": "margaret-dickie-genetics"
         },
         {
@@ -518,7 +518,7 @@
             "name": "Lavinia Dock",
             "bio": "",
             "degree": 1,
-            "modularity": 11,
+            "modularity": 10,
             "id": "100983087"
         },
         {
@@ -602,7 +602,7 @@
             "name": "Eva Eicher",
             "bio": "",
             "degree": 2,
-            "modularity": 5,
+            "modularity": 6,
             "id": "eva-eicher-genetics"
         },
         {
@@ -651,7 +651,7 @@
             "name": "Alice Evans",
             "bio": "",
             "degree": 1,
-            "modularity": 8,
+            "modularity": 1,
             "id": "16452241"
         },
         {
@@ -761,7 +761,7 @@
         },
         {
             "name": "Carrie B. Fuld",
-            "bio": "Caroline Bamberger Frank Fuld, along with her brother Louis Bamberger, donated and financially endowed funds for what would become the Institute of Advanced Study in Princeton. The Bamberger family were prominent department store owners in Baltimoire. After speaking with Abraham Flexnor in 1922, Fuld and her brother contributed over 23 million to begin and endow the Institute. Fuld was a supporter of Florence Sabin and wrote that she felt she had \"discovered\" her talent. ",
+            "bio": "Caroline Bamberger Frank Fuld, along with her brother Louis Bamberger, donated and financially endowed funds for what would become the Institute of Advanced Study in Princeton. The Bamberger family were prominent department store owners in Baltimoire. After speaking with Abraham Flexner in 1922, Fuld and her brother contributed over 23 million to begin and endow the Institute. Fuld was a supporter of Florence Sabin and wrote that she felt she had \"discovered\" her talent. ",
             "degree": 1,
             "modularity": 0,
             "id": "97830012"
@@ -819,13 +819,13 @@
             "name": "Salome Gluecksohn-Waelsch",
             "bio": "",
             "degree": 1,
-            "modularity": 5,
+            "modularity": 6,
             "id": "47716433"
         },
         {
             "name": "Jenny Glusker",
             "bio": "",
-            "degree": 3,
+            "degree": 4,
             "modularity": 2,
             "id": "51777052"
         },
@@ -861,7 +861,7 @@
             "name": "Margaret Green",
             "bio": "",
             "degree": 8,
-            "modularity": 5,
+            "modularity": 6,
             "id": "5510273"
         },
         {
@@ -945,7 +945,7 @@
             "name": "Katrina Hummel",
             "bio": "",
             "degree": 1,
-            "modularity": 5,
+            "modularity": 6,
             "id": "katrina-hummel-genetics"
         },
         {
@@ -973,7 +973,7 @@
             "name": "Joyce Isaacs",
             "bio": "",
             "degree": 1,
-            "modularity": 6,
+            "modularity": 5,
             "id": "joyce-isaacs-medicine"
         },
         {
@@ -1036,14 +1036,14 @@
             "name": "Helen Dean King",
             "bio": "",
             "degree": 2,
-            "modularity": 6,
+            "modularity": 5,
             "id": "51423735"
         },
         {
             "name": "Jessie L. King",
             "bio": "",
             "degree": 4,
-            "modularity": 6,
+            "modularity": 5,
             "id": "jessie-king-physiology"
         },
         {
@@ -1078,7 +1078,7 @@
             "name": "Ruth Kundsin",
             "bio": "",
             "degree": 2,
-            "modularity": 8,
+            "modularity": 1,
             "id": "47082718"
         },
         {
@@ -1098,15 +1098,15 @@
         {
             "name": "Rebecca Lancefield",
             "bio": "",
-            "degree": 2,
-            "modularity": 8,
+            "degree": 3,
+            "modularity": 5,
             "id": "194154196756120110412"
         },
         {
             "name": "Priscilla Lane",
             "bio": "",
             "degree": 3,
-            "modularity": 5,
+            "modularity": 6,
             "id": "priscilla-lane-genetics"
         },
         {
@@ -1210,8 +1210,8 @@
         {
             "name": "Clara Lynch",
             "bio": "",
-            "degree": 2,
-            "modularity": 6,
+            "degree": 3,
+            "modularity": 5,
             "id": "clara-lynch-biology"
         },
         {
@@ -1385,8 +1385,8 @@
         {
             "name": "Beatrice Mintz",
             "bio": "",
-            "degree": 3,
-            "modularity": 5,
+            "degree": 4,
+            "modularity": 6,
             "id": "65474773"
         },
         {
@@ -1407,7 +1407,7 @@
             "name": "Isabel Morgan",
             "bio": "",
             "degree": 1,
-            "modularity": 9,
+            "modularity": 8,
             "id": "isabel-morgan-virology"
         },
         {
@@ -1470,7 +1470,7 @@
             "name": "M. A. Nutting",
             "bio": "",
             "degree": 2,
-            "modularity": 11,
+            "modularity": 10,
             "id": "100983073"
         },
         {
@@ -1526,7 +1526,7 @@
             "name": "Louise Pearce",
             "bio": "",
             "degree": 4,
-            "modularity": 9,
+            "modularity": 8,
             "id": "56214499"
         },
         {
@@ -1609,8 +1609,8 @@
         {
             "name": "Persis Putnam",
             "bio": "",
-            "degree": 2,
-            "modularity": 6,
+            "degree": 4,
+            "modularity": 5,
             "id": "305455410"
         },
         {
@@ -1645,7 +1645,7 @@
             "name": "Lowell J. Reed",
             "bio": "",
             "degree": 2,
-            "modularity": 6,
+            "modularity": 5,
             "id": "58730576"
         },
         {
@@ -1715,20 +1715,20 @@
             "name": "Meredith Runner",
             "bio": "",
             "degree": 1,
-            "modularity": 5,
+            "modularity": 6,
             "id": "306183875"
         },
         {
             "name": "Elizabeth Russell",
             "bio": "",
             "degree": 7,
-            "modularity": 5,
+            "modularity": 6,
             "id": "84841281"
         },
         {
             "name": "Florence Rena Sabin",
             "bio": "",
-            "degree": 136,
+            "degree": 137,
             "modularity": 0,
             "id": "74652573"
         },
@@ -1742,7 +1742,7 @@
         {
             "name": "Florence Barbara Seibert",
             "bio": "",
-            "degree": 61,
+            "degree": 62,
             "modularity": 1,
             "id": "290322767"
         },
@@ -1785,7 +1785,7 @@
             "name": "Mary Sherwood",
             "bio": "",
             "degree": 3,
-            "modularity": 6,
+            "modularity": 5,
             "id": "mary-sherwood-medicine"
         },
         {
@@ -1799,7 +1799,7 @@
             "name": "Maud Slye",
             "bio": "",
             "degree": 3,
-            "modularity": 6,
+            "modularity": 5,
             "id": "4741220"
         },
         {
@@ -1834,7 +1834,7 @@
             "name": "Janice Spofford",
             "bio": "",
             "degree": 1,
-            "modularity": 5,
+            "modularity": 6,
             "id": "janice-spofford-genetics"
         },
         {
@@ -1855,7 +1855,7 @@
             "name": "Lottie Strauss",
             "bio": "",
             "degree": 1,
-            "modularity": 10,
+            "modularity": 9,
             "id": "309724749"
         },
         {
@@ -1995,7 +1995,7 @@
             "name": "Charity Waymouth",
             "bio": "",
             "degree": 2,
-            "modularity": 5,
+            "modularity": 6,
             "id": "236663052"
         },
         {
@@ -2023,7 +2023,7 @@
             "name": "Lilian Welsh",
             "bio": "",
             "degree": 4,
-            "modularity": 6,
+            "modularity": 5,
             "id": "73239411"
         },
         {
@@ -2051,7 +2051,7 @@
             "name": "Dorothy Wiehl",
             "bio": "Dorothy Wiehl worked in the field of statistics on issues of public health and population. She graduated from the University of Wisconsin where she studied under Wilford I. King, who recommended her to the US Public Health Service. She worked with Edgar Sydenstricker on the health of textile factory workers and pellegra at George Washington University where she received her MA. For 37 years she was the editor of the Millbank Quarterly, a journal on population health and health policy. ",
             "degree": 3,
-            "modularity": 6,
+            "modularity": 5,
             "id": "675145857064322921252"
         },
         {
@@ -2100,7 +2100,7 @@
             "name": "Betty Woodworth",
             "bio": "",
             "degree": 1,
-            "modularity": 5,
+            "modularity": 6,
             "id": "betty-woodworth-genetics"
         },
         {
@@ -2266,6 +2266,13 @@
         },
         {
             "relation": [
+                "used this person's scientific contribution"
+            ],
+            "source": "pam-batchelor-biophysics",
+            "target": "51777052"
+        },
+        {
+            "relation": [
                 "corresponded with"
             ],
             "source": "frieda-baumann-medicine",
@@ -2324,7 +2331,7 @@
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "21184239",
             "target": "14832103"
@@ -2392,7 +2399,7 @@
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "43268443",
             "target": "14832103"
@@ -2428,7 +2435,7 @@
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "93236818",
             "target": "14832103"
@@ -2648,7 +2655,16 @@
         },
         {
             "relation": [
-                "recommends"
+                "recommends",
+                "received letter of recommendation about"
+            ],
+            "source": "34818238",
+            "target": "305455410"
+        },
+        {
+            "relation": [
+                "recommends",
+                "received letter of recommendation about"
             ],
             "source": "34818238",
             "target": "675145857064322921252"
@@ -2690,10 +2706,31 @@
         },
         {
             "relation": [
-                "recommends"
+                "receives recommendation about"
             ],
             "source": "34818238",
             "target": "51423735"
+        },
+        {
+            "relation": [
+                "receives recommendation about"
+            ],
+            "source": "34818238",
+            "target": "clara-lynch-biology"
+        },
+        {
+            "relation": [
+                "receives recommendation about"
+            ],
+            "source": "34818238",
+            "target": "194154196756120110412"
+        },
+        {
+            "relation": [
+                "receives recommendation about"
+            ],
+            "source": "34818238",
+            "target": "290322767"
         },
         {
             "relation": [
@@ -3014,6 +3051,13 @@
             ],
             "source": "28353569",
             "target": "gloria-torralba-biology"
+        },
+        {
+            "relation": [
+                "recommends"
+            ],
+            "source": "28353569",
+            "target": "65474773"
         },
         {
             "relation": [
@@ -4058,7 +4102,7 @@
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "109218186",
             "target": "14832103"
@@ -4192,28 +4236,28 @@
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "14832103",
             "target": "6437519"
         },
         {
             "relation": [
-                "Letter of Reccomendation"
+                "recommends"
             ],
             "source": "14832103",
             "target": "38857597"
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "14832103",
             "target": "55703164"
         },
         {
             "relation": [
-                "Correspondence"
+                "corresponded with"
             ],
             "source": "14832103",
             "target": "36462260"
@@ -4675,6 +4719,13 @@
             ],
             "source": "305455410",
             "target": "58730576"
+        },
+        {
+            "relation": [
+                "received letter of recommendation about"
+            ],
+            "source": "305455410",
+            "target": "74652573"
         },
         {
             "relation": [
